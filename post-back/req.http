@@ -1,0 +1,13 @@
+@local=http://localhost:3001
+
+GET {{local}}/posts
+
+###
+POST {{local}}/posts
+Content-Type: application/json
+
+{
+    "title":"new1 post",
+    "body":"new js post about vanila javascript",
+    "author":"neri sudai"
+}

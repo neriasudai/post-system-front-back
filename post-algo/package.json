@@ -1,0 +1,12 @@
+{
+  "name": "post-algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "post.js",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
